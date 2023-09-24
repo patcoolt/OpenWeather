@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0C4C91C4-17D4-4093-8220-3BD953FC6641"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CEE6D23E-7BF3-43D5-BAF6-FFDC2C3879F1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "OpenWeather/ViewModel/WeatherViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "init(urlBuilder:networkService:userDefaults:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "CEE6D23E-7BF3-43D5-BAF6-FFDC2C3879F1 - 8a303213e67f50a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeather.WeatherViewModel.init(urlBuilder: OpenWeather.URLBuilder, networkService: OpenWeather.NetworkService, userDefaults: __C.NSUserDefaults) -&gt; OpenWeather.WeatherViewModel"
+                  moduleName = "OpenWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pthurgam/Documents/WorkArea/OpenWeather/OpenWeather/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "272">
+               </Location>
+               <Location
+                  uuid = "CEE6D23E-7BF3-43D5-BAF6-FFDC2C3879F1 - 8a303213e67f50a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "OpenWeather.WeatherViewModel.init(urlBuilder: OpenWeather.URLBuilder, networkService: OpenWeather.NetworkService, userDefaults: __C.NSUserDefaults) -&gt; OpenWeather.WeatherViewModel"
+                  moduleName = "OpenWeather"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pthurgam/Documents/WorkArea/OpenWeather/OpenWeather/ViewModel/WeatherViewModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "727">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
